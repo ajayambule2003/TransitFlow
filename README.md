@@ -39,7 +39,3 @@ We welcome contributions! Feel free to fork this project, submit issues, and cre
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments 🙏
-
-- Thanks to all the contributors and open-source libraries that made this project possible!
-- Special thanks to [Spring Boot](https://spring.io/projects/spring-boot) for providing a robust backend framework.
