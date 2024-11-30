@@ -4,12 +4,12 @@ import java.util.List;
 
 import soft.transport.management.model.Billing;
 
-public interface BillingService {
+public interface BillingService { 
 	
-	void add(Billing billing);
+	void add(Billing billing); 
 	void update(Billing billing);
 	void delete(int id);
-	Billing findById(int id);
+	Billing findById(int id); 
 	List<Billing> showAllBilling();
 	
 
