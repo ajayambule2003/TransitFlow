@@ -1,15 +1,15 @@
 # Security Policy
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability 
 
 Security is a top priority for us. If you discover a security vulnerability in this project, we encourage you to report it directly to us. Please refrain from publicly disclosing the vulnerability until it has been addressed.
 
 To report a vulnerability, please contact:
 
-**Email:** [ajayambule2003@gmail.com](mailto:ajayambule2003@gmail.com)
+**Email:** [ajayambule2003@gmail.com](mailto:ajayambule2003@gmail.com)  
 
-When reporting a vulnerability, please provide the following information:
-
+When reporting a vulnerability, please provide the following information: 
+ 
 - **Product version**: Specify the version of the application you are using.
 - **Affected components**: Identify which part of the application is affected (e.g., `script.js`, `index.html`).
 - **Vulnerability description**: Describe the nature of the vulnerability and how it can be exploited.

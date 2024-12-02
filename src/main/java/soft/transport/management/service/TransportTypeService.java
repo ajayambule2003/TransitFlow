@@ -10,7 +10,7 @@ public interface TransportTypeService {
 	void update(TransportType transportType);
 	void delete(int id);
 	TransportType findById(int id);
-	List<TransportType> showAllTransportType();
-	
-
+	List<TransportType> showAllTransportType(); 
+	 
+ 
 } 
