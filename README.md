@@ -5,7 +5,7 @@
 
 TransitFlow optimizes logistics operations with advanced features like fleet management 🚛, route planning 📍, and real-time shipment tracking 🚨, providing a seamless solution for managing transportation. Built using Java, Spring Boot, and SQL.
 
-## Features ✨  
+## Features ✨   
 
 - **Fleet Management** 🚛: Manage and track your fleet efficiently, ensuring better performance and optimized operations.
 - **Route Planning** 📍: Smart route recommendations based on real-time data for faster and more cost-effective deliveries.
