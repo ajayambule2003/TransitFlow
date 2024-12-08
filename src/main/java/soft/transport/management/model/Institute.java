@@ -12,9 +12,9 @@ import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 
 @Entity
-@JsonIdentityInfo(generator = ObjectIdGenerators.IntSequenceGenerator.class, property = "id")
-@Table(name="institute")
-public class Institute {
+@JsonIdentityInfo(generator = ObjectIdGenerators.IntSequenceGenerator.class, property = "id") 
+@Table(name="institute") 
+public class Institute { 
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
