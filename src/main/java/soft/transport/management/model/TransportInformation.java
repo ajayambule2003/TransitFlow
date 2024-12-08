@@ -1,7 +1,6 @@
 package soft.transport.management.model;
 
 import java.util.Date;
-//import java.sql.Date;;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -12,9 +11,9 @@ import javax.persistence.Table;
 import javax.persistence.Transient;
 
 import com.fasterxml.jackson.annotation.JsonIdentityInfo;
-import com.fasterxml.jackson.annotation.ObjectIdGenerators;
+import com.fasterxml.jackson.annotation.ObjectIdGenerators; 
 
-@Entity
+@Entity 
 @JsonIdentityInfo(generator = ObjectIdGenerators.IntSequenceGenerator.class, property = "id")
 @Table(name="transportinformation")
 public class TransportInformation {

@@ -2,8 +2,6 @@ package soft.transport.management.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
-//import javax.persistence.GeneratedValue;
-//import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
@@ -13,12 +11,12 @@ import javax.persistence.Table;
 @Entity
 //@JsonIdentityInfo(generator = ObjectIdGenerators.IntSequenceGenerator.class,property="id")
 @Table(name="student")
-public class Student {
+public class Student { 
 	
-	@Id
+	@Id 
 	/*@GeneratedValue(strategy = GenerationType.IDENTITY)*/
 	@Column(name="id")
-	String id;
+	String id; 
 	
 	@Column(name="name")
 	String name;
