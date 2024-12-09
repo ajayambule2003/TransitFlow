@@ -7,13 +7,13 @@ TransitFlow optimizes logistics operations with advanced features like fleet man
 
 ## Features ✨   
 
-- **Fleet Management** 🚛: Manage and track your fleet efficiently, ensuring better performance and optimized operations.
+- **Fleet Management** 🚛: Manage and track your fleet efficiently, ensuring better performance and optimized operations. 
 - **Route Planning** 📍: Smart route recommendations based on real-time data for faster and more cost-effective deliveries.
 - **Real-Time Tracking** 🚨: Monitor shipments and vehicles in real-time to ensure timely deliveries and improve customer satisfaction.
-- **Advanced Analytics** 📊: Gain insights with powerful reporting tools to make data-driven decisions.
-- **Secure Access** 🔐: Role-based authentication to protect sensitive data and restrict access to authorized users.
+- **Advanced Analytics** 📊: Gain insights with powerful reporting tools to make data-driven decisions. 
+- **Secure Access** 🔐: Role-based authentication to protect sensitive data and restrict access to authorized users. 
 
-## Built With 💻 
+## Built With 💻  
 
 - **Backend**: Java, Spring Boot
 - **Frontend**: HTML5, CSS3, JavaScript
