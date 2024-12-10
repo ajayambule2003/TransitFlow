@@ -9,8 +9,8 @@ public interface TransportTypeService {
 	void add(TransportType transportType); 
 	void update(TransportType transportType); 
 	void delete(int id);
-	TransportType findById(int id);  
-	TransportType findById(int id);
+	// TransportType findById(int id);  
+	// TransportType findById(int id);
 	List<TransportType> showAllTransportType();  
 	 
  
