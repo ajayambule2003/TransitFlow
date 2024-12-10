@@ -4,13 +4,14 @@ import java.util.List;
 
 import soft.transport.management.model.TransportType;
 
-public interface TransportTypeService {
+public interface TransportTypeService { 
 	
-	void add(TransportType transportType);
-	void update(TransportType transportType);
+	void add(TransportType transportType); 
+	void update(TransportType transportType); 
 	void delete(int id);
+	TransportType findById(int id);  
 	TransportType findById(int id);
-	List<TransportType> showAllTransportType(); 
+	List<TransportType> showAllTransportType();  
 	 
  
 } 
