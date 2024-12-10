@@ -4,9 +4,9 @@ import java.util.List;
 
 import soft.transport.management.model.TransportRequisition;
 
-public interface TransportRequisitionService {
+public interface TransportRequisitionService { 
 	
-	
+	 
 	void add(TransportRequisition transportRequisition);
 	void update(TransportRequisition transportRequisition);
 	void delete(int id);
