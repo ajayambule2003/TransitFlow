@@ -15,7 +15,7 @@ TransitFlow optimizes logistics operations with advanced features like fleet man
 
 ## Built With 💻
  
-- **Backend**: Java, Spring Boot 
+- **Backend**: Java, Spring Boot
 - **Frontend**: HTML5, CSS3, JavaScript 
 - **Database**: SQL (MySQL)
 - **Tools**: Git, Maven
