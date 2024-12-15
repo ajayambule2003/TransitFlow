@@ -14,9 +14,9 @@
 	<title><tiles:insertAttribute name="title" /></title> 
 
    
-    <!-- Bootstrap core CSS  -->    
+    <!-- Bootstrap core CSS  --> 
     <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- <link href="/lib/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"> -->
+    <!-- <link href="/lib/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"> --> 
 
     <!-- Custom styles for this template -->
     <link href="/css/custom.style.css" rel="stylesheet">
