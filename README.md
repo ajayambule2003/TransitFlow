@@ -14,13 +14,13 @@ TransitFlow optimizes logistics operations with advanced features like fleet man
 - **Secure Access** 🔐: Role-based authentication to protect sensitive data and restrict access to authorized users. 
 
 ## Built With 💻 
- 
+
 - **Backend**: Java, Spring Boot
 - **Frontend**: HTML5, CSS3, JavaScript 
 - **Database**: SQL (MySQL)
 - **Tools**: Git, Maven
 
-## Installation 🛠
+## Installation 🛠 
 
 Clone the repository:
    
