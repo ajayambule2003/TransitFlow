@@ -1,8 +1,9 @@
 <script type="text/javascript">
 
 	var populateDataForBillingUpdate;
-	//foreign key id to name  mapping
-	var allUser = [];//end of foreign key id to name  mapping
+	//foreign key id to name  mapping 
+	var allUser = [];
+	//end of foreign key id to name  mapping
 	
 	$(document).ready(function(){
 
