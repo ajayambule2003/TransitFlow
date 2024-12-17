@@ -7,10 +7,10 @@
 	<div  class="col-md-6 col-md-offset-4 custom_shadow"
 		style="/*background-color:#708090;*/border: 0px solid #999999; margin-top: 5%; width: 60%; height: 50%; min-width: 250px; max-width: 370px;">
 
-		<form action="/login" method="post" ><!-- class="form-horizontal " -->
+		<form action="/login" method="post" ><!-- class="form-horizontal "--> 
 			<div class="mb-4 text-center">
 
-				<!-- <h1 class="h3">Admin Sign In</h1> -->
+				<!-- <h1 class="h3">Admin Sign In</h1> --> 
 				<img height="30%" width="30%" src="/img/diutransport.png">
 				<br /> <br />
 				<c:if test="${param.error ne null}">
