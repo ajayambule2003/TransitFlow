@@ -10,10 +10,9 @@
 			for(var key in data){
 				uniBusScheduleData += '<tr><td>' + data[key].busName + '</td><td>'+timeFormat24to12(data[key].startingTime) + '</td><td>'+ data[key].stationFrom +'</td><td>'+ data[key].stationTo +'</td><td>'+ data[key].driverName +'</td><td>'+ data[key].helperName +'</td><td>'+ data[key].helperContact +'</td></tr>';
 			}
-
 			$("#tblUniBusSchedule").append(uniBusScheduleData);
 
-		})
+		}) 
 	}
 
 	});
