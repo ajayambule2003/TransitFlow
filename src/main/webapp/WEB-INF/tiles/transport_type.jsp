@@ -8,7 +8,7 @@
 		$("#tmpId").val(0);
 
 		function validator() {
-
+			//click
 			//var typeTitle	= $.trim($("#username").val());
 			var typeTitle = $.trim($("#typeTitle").val());
 
