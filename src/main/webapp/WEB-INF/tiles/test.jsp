@@ -7,7 +7,6 @@
       <a class="navbar-brand" href="#">WeConnected</a>
     </div>
     
-    
     <form class="navbar-form navbar-right ml-auto">
       <div class="form-group">
         <input type="text" class="form-control" placeholder="Email">
