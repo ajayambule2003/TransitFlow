@@ -18,13 +18,13 @@
 				$("#successMessage").addClass("hidden");
 				return false;
 			}
-			else{
+			else{ 
 				return true;
 			}
-			
+			 
 			}
 
-
+ 
 		/* Submitting form to controller*/
 		$("#btnTransportSave").click(function(event) {
 
