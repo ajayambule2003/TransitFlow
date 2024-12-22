@@ -8,8 +8,6 @@
 
 	$(document).ready(function(){
 
-
-
         var requisitionData = [];
 
         getAllUser();
@@ -18,7 +16,7 @@
         funViewTransportRequisition1();
         funViewTransportRequisitionRejected();
 		funViewTransportRequisition();
-        //funViewTransportRequisition1();
+        //funViewTransportRequisition1(); 
         //alert("Tanvir: "+JSON.stringify(requisitionApprovalData));
         
         $("#divRequisitionPendingList").show();
