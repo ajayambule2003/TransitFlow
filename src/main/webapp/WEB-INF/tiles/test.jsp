@@ -116,7 +116,8 @@
     text-align: right;
     margin: 0 -20px -20px;
     border-radius: 0 0 5px 5px;
-  } 
+  }
+  
     .modal-confirm .btn {
         color: #fff;
         border-radius: 4px;
