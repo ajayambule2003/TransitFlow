@@ -19,9 +19,9 @@ TransitFlow optimizes logistics operations with advanced features like fleet man
 - **Frontend**: HTML5, CSS3, JavaScript 
 - **Database**: SQL (MySQL)
 - **Tools**: Git, Maven
-
+  
 ## Installation 🛠
-
+  
 Clone the repository:
    
    git clone https://github.com/ajayambule2003/TransitFlow.git
