@@ -5,7 +5,7 @@
 
 		viewData();
 		
-      function validator(){
+    function validator(){
 
             var username	= $.trim($("#username").val());
 
