@@ -1,7 +1,7 @@
 
 # TransitFlow 🚚📦
 
-**A Smart Transportation Management System (TMS) for Efficient Fleet Management, Route Planning, and Real-Time Tracking!**
+**A Smart Transportation Management System (TMS) for Efficient Fleet Management, Route Planning, and Real-Time Tracking!** 
 
 TransitFlow optimizes logistics operations with advanced features like fleet management 🚛, route planning 📍, and real-time shipment tracking 🚨, providing a seamless solution for managing transportation. Built using Java, Spring Boot, and SQL.
 

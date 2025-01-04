@@ -9,9 +9,9 @@
        $("#divShowDriverInformation" ).show();
         $("#divAddDiverInformation").hide();
 
-       funViewModelData();
+    funViewModelData();
 
-       function validator(){
+    function validator(){
 
         var VenueName = $.trim($("#venueName").val());
         // var LocationMap = $.trim($("#locationMap").val());
