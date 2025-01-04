@@ -20,13 +20,12 @@ TransitFlow optimizes logistics operations with advanced features like fleet man
 - **Database**: SQL (MySQL)
 - **Tools**: Git, Maven
   
-## Installation 🛠
-  
+## Installation 🛠 
 Clone the repository:
    
    git clone https://github.com/ajayambule2003/TransitFlow.git
    
-
+ 
 ## Usage 🚀
 
 Once the application is running, you can access the web interface at `http://localhost:8080`. Create an account, log in, and start managing your fleet and tracking shipments.
