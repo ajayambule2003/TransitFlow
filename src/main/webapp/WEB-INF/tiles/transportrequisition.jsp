@@ -6,8 +6,8 @@
 		
 		$("#successMessage").addClass("hidden");
         $("#errorMessage").addClass("hidden");
-        
-
+         
+ 
         getAllTransportType();
         funViewTransportRequisitionData();
 /*
