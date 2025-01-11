@@ -7,10 +7,10 @@
        $("#errorMessage").addClass("hidden");
 
        $("#divShowDriverInformation" ).show();
-        $("#divAddDiverInformation").hide();
+        $("#divAddDiverInformation").hide(); 
 
-    funViewModelData();
-
+    funViewModelData(); 
+  
     function validator(){
 
         var VenueName = $.trim($("#venueName").val());
