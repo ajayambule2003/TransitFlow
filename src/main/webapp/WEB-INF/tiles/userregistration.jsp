@@ -6,7 +6,7 @@
 		viewData();
 		
     function validator(){
-
+ 
             var username	= $.trim($("#username").val());
 
             if(username == ""){
@@ -19,7 +19,7 @@
             }
 
             return true;
-        }
+        } 
 
 
         /* Submitting form to controller*/
