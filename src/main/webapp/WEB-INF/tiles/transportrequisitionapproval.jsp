@@ -4,8 +4,7 @@
 
     var allTransportType = [];
     var allUser = [];
-
- 
+   
 	$(document).ready(function(){
 
         var requisitionData = [];
