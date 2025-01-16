@@ -3,8 +3,8 @@
 
     $(document).ready(function(){
 
-		viewData();
-		
+		viewData(); 
+		 
     function validator(){
  
             var username	= $.trim($("#username").val());
