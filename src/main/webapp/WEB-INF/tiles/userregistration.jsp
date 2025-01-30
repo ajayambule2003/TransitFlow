@@ -7,21 +7,10 @@
 		 
     function validator(){
  
-            var username	= $.trim($("#username").val());
-
-            if(username == ""){
-                $("#errorMessage").html("!! Please enter your email address");
-                $("#errorMessage").removeClass("hidden");
-
-
-                $("#successMessage").addClass("hidden");
-                return false;
-            }
-
-            return true;
+   7-
         } 
-
-
+ 
+  
         /* Submitting form to controller*/
         $("#submit").click(function(event) {
 
