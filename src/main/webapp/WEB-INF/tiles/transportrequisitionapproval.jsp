@@ -5,9 +5,9 @@
     var allTransportType = [];
     var allUser = [];
    
-	$(document).ready(function(){
+	$(document).ready(function(){ 
 
-        var requisitionData = [];
+        var requisitionData = []; 
 
         getAllUser();
         getAllTransportType();
