@@ -25,13 +25,13 @@ Clone the repository:
    
    git clone https://github.com/ajayambule2003/TransitFlow.git
    
- 
+  
 ## Usage 🚀
-
+ 
 Once the application is running, you can access the web interface at `http://localhost:8080`. Create an account, log in, and start managing your fleet and tracking shipments.
 
 ## Contributing 🤝
-
+ 
 We welcome contributions! Feel free to fork this project, submit issues, and create pull requests.
  
 ## License 📄
