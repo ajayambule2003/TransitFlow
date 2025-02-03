@@ -9,7 +9,7 @@
   function getAllTransportInformation(){
 
     $.post("viewAllTransportInformation",function(data){
-
+ 
       allTransportInformation = data;
 
     });
