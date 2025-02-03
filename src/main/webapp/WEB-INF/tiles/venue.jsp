@@ -6,11 +6,11 @@
      $("#successMessage").addClass("hidden");
        $("#errorMessage").addClass("hidden");
 
-       $("#divShowDriverInformation" ).show();
+    $("#divShowDriverInformation" ).show();
         $("#divAddDiverInformation").hide(); 
 
     funViewModelData(); 
-  
+
     function validator(){
 
         var VenueName = $.trim($("#venueName").val());
