@@ -4,17 +4,15 @@
     $(document).ready(function(){
 
 		viewData(); 
-		 
+
     function validator(){
- 
-   7-
-        } 
+        }
 
         /* Submitting form to controller*/
         $("#submit").click(function(event) {
 
             event.preventDefault();
-  
+
             if (validator()){
 
                 var data = {};
