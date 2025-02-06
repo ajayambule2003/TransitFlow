@@ -8,13 +8,13 @@
 
   function getAllTransportInformation(){
 
-    $.post("viewAllTransportInformation",function(data){
+    $.post("viewAllTransportInformation",function(data){  
  
       allTransportInformation = data;
 
     });
   }
-
+  
    function getAllTransportType(){
 
     $.post("viewAllTransportType",function(data){
