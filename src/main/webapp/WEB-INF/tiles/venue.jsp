@@ -9,7 +9,7 @@
     $("#divShowDriverInformation" ).show();
         $("#divAddDiverInformation").hide(); 
 
-    funViewModelData(); 
+    funViewModelData();
 
     function validator(){
 
@@ -17,12 +17,12 @@
         // var LocationMap = $.trim($("#locationMap").val());
 
         if(VenueName = ""){
-          $("#errorMessage").html("Please Enter VenueName."); 
+        $("#errorMessage").html("Please Enter VenueName."); 
                 $("#errorMessage").removeClass("hidden");
-              $("#successMessage").addClass("hidden");
+            $("#successMessage").addClass("hidden");
                 return false;
 
-         }
+        }
         // else if (LocationMap= ""){
         //   $("#errorMessage").html("Please Enter LocationMap."); 
         //         $("#errorMessage").removeClass("hidden");
