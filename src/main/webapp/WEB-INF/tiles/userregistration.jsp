@@ -13,7 +13,7 @@
 
             event.preventDefault();
 
-            if (validator()){
+            if (validator()){ 
 
                 var data = {};
 
